@@ -1,0 +1,295 @@
+    1  sudo -i
+    2  cd Downloads/
+    3  sudo rmp -Uvh google-chrome-stable_current_x86_64.rpm 
+    4  sudo rpm -Uvh google-chrome-stable_current_x86_64.rpm 
+    5  yum install liberation-fonts
+    6  sudo yum install liberation-fonts
+    7  sudo rpm -Uvh google-chrome-stable_current_x86_64.rpm 
+    8  sudo yum install unity-tweak-tool
+    9  sudo yum install tweak-tool
+   10  sudo dnf install gnome-tweak-tool
+   11  sudo wget http://download.opensuse.org/repositories/home:Horst3180/Fedora_24/home:Horst3180.repo -O /etc/yum.repos.d/
+   12  sudo wget http://download.opensuse.org/repositories/home:Horst3180/Fedora_25/home:Horst3180.repo -O /etc/yum.repos.d/
+   13  sudo -i
+   14  ping 138.97.12.49
+   15  ping 138.97.12.254
+   16  ping 138.97.12.253
+   17  ping 138.97.12.254
+   18  ping 8.8.8.8
+   19  ping 138.97.12.49
+   20  ping 138.97.12.254
+   21  ping 8.8.8.8
+   22  ping 138.97.12.254
+   23  sudo -i
+   24  ping 138.97.12.49
+   25  ping 138.97.12.254
+   26  sudo -i
+   27  ping 138.97.12.254
+   28  ping 138.97.12.49
+   29  ping 138.97.12.50
+   30  ping 138.97.12.254
+   31  ping 138.97.12.50
+   32  sudo -i
+   33  ping 8.8.8.8
+   34  sudo -i
+   35  ping multinep.ddns.net
+   36  ping 177.12.2.56
+   37  ping multinep.ddns.net
+   38  sudo -i
+   39  ping 25.72.141.49
+   40  sudo -i
+   41  telnet 25.108.254.137 80
+   42  sudo -i
+   43  ping tbstelecom.ddns.net
+   44  sudo -i
+   45  telnet 25.108.254.137 80
+   46  telnet tbstelecom.ddns.net 22
+   47  telnet tbstelecom.ddns.net 80
+   48  sudo -i
+   49  ping 25.50.212.105 
+   50  ssh 129.146.173.87
+   51  sudo -i
+   52  ssh-keygen -t rsa -b 4096
+   53  ssh opc@129.146.173.87
+   54  ssh 129.146.173.87
+   55  sudo -i
+   56  ssh-keygen -t rsa -b 4096
+   57  cd .ssh/
+   58  ls
+   59  ssh-keygen -t rsa -b 4096
+   60  ls
+   61  ssh -i oracle opc@129.146.80.224
+   62  chmod 400 oracle
+   63  ssh -i oracle opc@129.146.80.224
+   64  ssh -i oracle 129.146.80.224
+   65  ssh -i oracle opc@129.146.80.224
+   66  telnet 25.108.254.137 22
+   67  telnet 25.108.254.137 80
+   68  ping 25.108.254.137
+   69  ping tbstelecom.ddns.net
+   70  telnet 138.97.12.50 9001
+   71  ping 8.8.8.8
+   72  ping 192.168.3.1
+   73  ping 8.8.8.8
+   74  sudo -i
+   75  telnet 138.97.12.50 18004
+   76  ping 25.108.254.137
+   77  scp 25.108.254.137:/etc/sysconfig/network-scripts/route-ham0 .
+   78  scp root@25.108.254.137:/etc/sysconfig/network-scripts/route-ham0 .
+   79  vim route-ham0 
+   80  scp route-ham0 root@25.108.254.137:/etc/sysconfig/network-scripts/route-ham0
+   81  rm -rf route-ham0 
+   82  scp root@25.108.254.137:/etc/sysconfig/network-scripts/route-ham0 .
+   83  vim route-ham0 
+   84  scp route-ham0 root@25.108.254.137:/etc/sysconfig/network-scripts/route-ham0
+   85  hamachi
+   86  sudo -i
+   87  treamviewer
+   88  teamviewer
+   89  sudo -i
+   90  wget -c http://www.labcisco.com.br/app/Cisco-PT-71-x64.tar.gz -O ciscopacket.tar.gz
+   91  tar xvzf ciscopacket.tar.gz 
+   92  ls
+   93  rm -rf ciscopacket.tar.gz 
+   94  sudo -i
+   95  packettracert
+   96  packettracer
+   97  sudo packettracer
+   98  ping 8.8.8.8
+   99  sudo -i
+  100  ping 8.8.8.8
+  101  ping 25.50.212.105
+  102  hamachi
+  103  logmein-hamachi
+  104  logmein-hamachi login
+  105  hamachi login
+  106  /etc/init.d/logmein-hamachi restart
+  107  sudo /etc/init.d/logmein-hamachi restart
+  108  hamachi
+  109  sudo hamachi
+  110  ping 25.50.212.105
+  111  ping 25.65.36.186
+  112  sudo -i
+  113  ping 25.65.36.186
+  114  sudo -i
+  115  ping 25.65.36.186
+  116  ping 25.50.212.105
+  117  sudo -i
+  118  ping 138.97.12.254
+  119  ping 138.97.12.253
+  120  ping 25.16.150.114
+  121  ping 25.50.212.105
+  122  ping 25.16.150.114
+  123  ping 8.8.8.8
+  124  ping 25.16.150.114
+  125  ping 25.50.212.105
+  126  ping 138.97.12.253
+  127  ping 25.50.212.105
+  128  ping 25.16.150.114
+  129  ping 25.50.212.105
+  130  ping 25.16.150.114
+  131  ping 25.0.35.57
+  132  sudo -i
+  133  ping 8.8.8.8
+  134  ping 138.97.12.50
+  135  ping 138.97.12.254
+  136  root@25.114.26.75
+  137  ssh oot@25.114.26.75
+  138  ssh root@25.114.26.75
+  139  ping 191.242.233.37
+  140  ssh root@191.242.233.37
+  141  sudo -i
+  142  ssh root@191.242.233.37
+  143  telnet 191.242.233.37 22
+  144  nmap 191.242.233.37
+  145  telnet 191.242.233.37 122
+  146  telnet 191.242.233.37 22
+  147  telnet 191.242.233.37 122
+  148  ping 25.114.26.75
+  149  ssh root@25.114.26.75
+  150  ping 25.114.26.75
+  151  ssh root@25.114.26.75
+  152  telnet 25.114.26.75 8080
+  153  ssh root@25.114.26.75
+  154  ping 8.8.8.8
+  155  ping dstockmed.ddns.net
+  156  ping 138.97.12.50
+  157  ping 138.97.12.49
+  158  ping multinep.ddns.net
+  159  ping 187.115.253.207
+  160  ping multinep.ddns.net
+  161  ssh -p 9022 lpampolha@189.1.135.124
+  162  ping multinep.ddns.net
+  163  ping 187.115.253.207
+  164  ssh -p 9022 lpampolha@189.1.135.124
+  165  ping 179.176.47.180
+  166  ssh -p 9022 lpampolha@179.176.47.180
+  167  ping 177.41.60.248
+  168  ssh -p 9022 lpampolha@177.41.60.248
+  169  ping multinep.ddns.net
+  170  ping 179.176.47.180
+  171  ping 187.115.253.207
+  172  ping 189.1.135.124
+  173  ping multinep.ddns.net
+  174  ssh -p 9022 lpampolha@multinep.ddns.net
+  175  ping 8.8.8.8
+  176  ping multinep.ddns.net
+  177  ssh -p 9022 lpampolha@multinep.ddns.net
+  178  ping multinep.ddns.net
+  179  ping 8.8.8.8
+  180  ping multinep.ddns.net
+  181  ssh -p 9022 lpampolha@177.98.65.240
+  182  sudo systemctl restart nscd
+  183  sudo /etc/init.d/nscd restart
+  184  sudo i
+  185  sudo -i
+  186  packettracer 
+  187  cd Downloads/
+  188  cd Packet\ Tracer\ 7.2.1\ for\ Linux\ 64\ bit/
+  189  sudo ./install 
+  190  pach
+  191  packettracer 
+  192  sudo packettracer 
+  193  ping multinep.ddns.net
+  194  ssh -p 9022 lpampolha@177.12.29.20
+  195  ping 8.8.8.8
+  196  ssh -p 9022 lpampolha@138.97.12.254
+  197  telnet multinep.ddns.net 3391
+  198  telnet multinep.ddns.net 33391
+  199  telnet multinep.ddns.net 33390
+  200  sudo gsettings set org.gnome.desktop.wm.keybindings switch-windows ['<Alt>Tab']
+  201  sudo -i
+  202  ping 8.8.8.8
+  203  exit
+  204  cd Documentos/
+  205  cd GLOBOTECH/
+  206  scp -P 9022 lpampolha@wiki.globotechweb.com.br:/home/lpampolha/dokuwiki.tar.gz .
+  207  sudo -i
+  208  ping 138.97.12.49
+  209  ping 138.97.12.50
+  210  sudo -i
+  211  cd ..
+  212  mkdir infnet-bootcamp
+  213  cd infnet-bootcamp/
+  214  mkdir aula-inaugural
+  215  cd aula-inaugural/
+  216  mkdir aula-inaugural-backend
+  217  cd ..
+  218  mkdir backend
+  219  mkdir teste
+  220  npm init -y
+  221  ls -lha
+  222  npm install express
+  223  app.listen();
+  224  app.listen() oi
+  225  node index.js 
+  226  npm init react-app projeto
+  227  ls -lha
+  228  npx create-react-app projeto
+  229  ls -lha
+  230  npx create-react-app projeto
+  231  ls
+  232  ls -lha
+  233  npm start
+  234  npx start
+  235  cd projeto/
+  236  ls
+  237  npm start
+  238  ping 8.8.8.8
+  239  sudo -i
+  240  ping 8.8.8.8
+  241  ping multinep.ddns.net
+  242  exit
+  243  cd /home/lpampolha/Downloads/
+  244  scp -P 9022 5826.redundancia.sh lpampolha@138.97.12.50:
+  245  node index.js 
+  246  sudo install nodemon
+  247  npm install -g nodemon
+  248  sudo npm install -g nodemon
+  249  nodemon index.js 
+  250  pwd
+  251  cd /var/www/html/
+  252  ls
+  253  cd infnet-bootcamp/
+  254  ls
+  255  mkdir semana01
+  256  ls
+  257  cp aula-inaugural/backend/ semana01/
+  258  cp -r aula-inaugural/backend/ semana01/
+  259  history > /home/lpampolha/Documentos/history.txt
+  260  ssh -p 9022 lpampolha@138.97.12.50
+  261  sudo -i
+  262  ping 8.8.8.8
+  263  git --version
+  264  git init
+  265  git add .
+  266  git init
+  267  git add .
+  268  ping 8.8.8.8
+  269  cd /var/www/html/infnet/semana01/backend/
+  270  git init 
+  271  ls -lha
+  272  cd ..
+  273  mkdir monitoria
+  274  cd monitoria/
+  275  mkdir git02
+  276  ping 8.8.8.8
+  277  ping 138.97.12.253
+  278  ping 138.97.12.254
+  279  ping 138.97.12.49
+  280  ping 138.97.12.50
+  281  cd /var/www/html/infnet/
+  282  ls
+  283  cd semana01/
+  284  ls
+  285  ls -lha
+  286  cd ..
+  287  cd /var/www/html/infnet/mkdir bootcamp
+  288  cd /var/www/html/infnet/
+  289  mkdir bootcamp
+  290  ls
+  291  mv semana01/ aula-inaugural/ bootcamp/
+  292  ls
+  293  cd bootcamp/
+  294  ls
+  295  history > aula-inaugural/history.txt
