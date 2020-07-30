@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topo {
+    width: 100%;
+    max-width: 800px;
+    height: 150px;
+    margin: auto;
+}
+
+.menu {
+    width: 100%;
+    max-width: 800px;
+    height: 100px;
+    background-color: #ddd;
+}
+
+.principal{
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    margin: auto;
+    background-color: #eee;
+}
+
+.rodape{
+    width: 100%;
+    max-width: 800px;
+    height: 100px;
+    margin: auto;
+    background-color: #ccc;
+}
+
+@media only screen and (min-width:500px) and (max-width:800px){
+    .topo {
+        width: 500px;
+    }
+    .menu{
+
+    }
+    .principal {
+        width: 500px;
+    }
+    .rodape{
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width:500px){
+    .topo {
+        width: 300px;
+        height: 200px;
+    }
+    .menu{
+        width: 100%;
+    }
+    .principal {
+        width: 300px;
+    }
+    .rodape{
+        width: 300px;
+    }
+}
